@@ -1,0 +1,16 @@
+{
+  "name": "quickdraw_example",
+  "version": "0.0.1",
+  "description": "Example",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "ndjson": "^1.5.0",
+    "p5": "^0.8.0"
+  }
+}
